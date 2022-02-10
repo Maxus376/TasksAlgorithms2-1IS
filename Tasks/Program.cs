@@ -1,30 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Tasks
 {
-    class Program
+    class MyHello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("fiugrhjrgfuefrh");
-
-            Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("fiugrhjrgfuefrh"); Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("fiugrhjrgfuefrh");
-
-            Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("fiugrhjrgfuefrh");
-            Console.WriteLine("Илюха да");
+            Console.WriteLine("myhello");
+            string name;
+            name = Console.ReadLine();
+            Console.WriteLine($"Привет, {name}");
         }
     }
 }
