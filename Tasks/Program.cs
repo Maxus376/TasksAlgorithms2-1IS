@@ -11,6 +11,19 @@ namespace Tasks
         static void Main(string[] args)
         {
             Console.WriteLine("fiugrhjrgfuefrh");
+
+            Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("fiugrhjrgfuefrh"); Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("fiugrhjrgfuefrh");
+
+            Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("fiugrhjrgfuefrh");
         }
     }
 }
