@@ -24,6 +24,7 @@ namespace Tasks
             Console.WriteLine("fiugrhjrgfuefrh");
             Console.WriteLine("fiugrhjrgfuefrh");
             Console.WriteLine("fiugrhjrgfuefrh");
+            Console.WriteLine("Илюха да");
         }
     }
 }
