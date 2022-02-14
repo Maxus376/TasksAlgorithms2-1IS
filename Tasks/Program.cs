@@ -10,6 +10,7 @@ namespace Tasks
             string name;
             name = Console.ReadLine();
             Console.WriteLine($"Привет, {name}");
+            Console.ReadKey();
         }
     }
 }
